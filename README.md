@@ -20,7 +20,7 @@ It explores:
 
 ## 📂 Content  
 - **EV_Analysis.ipynb** → Jupyter Notebook with full analysis and visualizations  
-- **dataset (from URL)** → Data is fetched dynamically from an open-source portal  
+- **EV.py** → python code with full analysis and visualizations
 - **Images/Graphs (if applicable)** → Visualizations generated during analysis  
 - **README.md** → Project documentation  
 
