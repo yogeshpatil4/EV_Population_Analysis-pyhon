@@ -21,7 +21,7 @@ It explores:
 ## 📂 Content  
 - **EV_Analysis.ipynb** → Jupyter Notebook with full analysis and visualizations  
 - **EV.py** → python code with full analysis and visualizations
-- **Images/Graphs (if applicable)** → Visualizations generated during analysis  
+- **Images** → Visualizations generated during analysis  
 - **README.md** → Project documentation  
 
 ## 📊 Technologies Used  
