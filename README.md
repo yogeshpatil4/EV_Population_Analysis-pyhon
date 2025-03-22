@@ -1,6 +1,6 @@
 # 🚗 Electric Vehicle Population Analysis  
 
-## 📌 Table of Contents  
+## 📌 Contents  
 - [Project Overview](#-project-overview)  
 - [Content](#-content)  
 - [Technologies Used](#-technologies-used)  
@@ -49,30 +49,29 @@ Here are some visualizations generated in this analysis:
 
 ### **1️⃣ EV Adoption Over Time**  
 📈 Shows the growth of EV registrations over different years.  
- 
-![Top 10 EV Manufacturers](https://github.com/user-attachments/assets/54b69d42-140b-46fc-bd4c-c3308861e0d0)
+ ![EV Adoption Over Time](https://github.com/user-attachments/assets/6eccd290-eb29-490d-8253-2a2b36a55138)
 
 ### **2️⃣ Top 10 Cities with Most EVs**  
-🌎 Displays the cities with the highest EV registrations.  
-![EV Cities](images/top_ev_cities.png)  
+🌎 Displays the cities with the highest EV registrations.
+![Geographical Distribution of EVs](https://github.com/user-attachments/assets/a3b37c71-f86f-4e57-9d2a-a871f778ca40)
 
 ### **3️⃣ Electric Vehicle Type Distribution**  
 🔋 Compares the percentage of Battery Electric Vehicles (BEVs) vs Plug-in Hybrid Electric Vehicles (PHEVs).  
-![EV Type Distribution](images/ev_type_distribution.png)  
+![Distribution of EV Types with Percentage](https://github.com/user-attachments/assets/64685210-d383-4410-9992-35574666221e)
 
 ### **4️⃣ Top 10 EV Manufacturers**  
 🚘 Highlights the most popular EV brands.  
-![EV Manufacturers](images/top_ev_makers.png)  
+![Top 10 EV Manufacturers](https://github.com/user-attachments/assets/4c547149-8e9a-4e99-94e0-f2f12b84adcb)
 
 ### **5️⃣ Electric Vehicle Range Distribution**  
 ⚡ Analyzes the electric range of vehicles.  
-![EV Range](images/ev_range_distribution.png)  
+![Distribution of Electric Vehicle Ranges](https://github.com/user-attachments/assets/1c117e78-1b64-4b7b-bdce-dfbe80a2d3ce)
 
 ### **6️⃣ Estimated Growth in Market Size**  
 📊 Predicts future EV adoption using regression models.  
-![EV Growth Prediction](images/ev_growth_prediction.png)  
+![_Estimated Growth in Market Size (1)](https://github.com/user-attachments/assets/fcfb5700-4559-47ac-9e1e-a7e7d62f1205)
 
-(*Make sure to place your images inside an `images/` folder in your project repository.*)  
+
 
 ## 📌 Conclusion  
 The analysis of electric vehicle (EV) adoption highlights a significant increase in EV registrations, with Tesla leading the market. Advancements in battery technology have improved the range of EVs, making them more practical for daily use. However, challenges like charging infrastructure and affordability remain key concerns. The findings suggest a promising future for EV adoption, especially with government incentives and increasing consumer interest.  
