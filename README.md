@@ -49,7 +49,7 @@ Here are some visualizations generated in this analysis:
 
 ### **1️⃣ EV Adoption Over Time**  
 📈 Shows the growth of EV registrations over different years.  
-![EV Growth](images/ev_growth.png)  
+![EV Growth]([images/ev_growth.png](https://github.com/yogeshpatil4/EV_Population_Analysis-pyhon/blob/4135f6f23bd6474db844e9bbdf0c6d7f419d34fc/Distribution%20of%20EV%20Types%20with%20Percentage.png))  
 
 ### **2️⃣ Top 10 Cities with Most EVs**  
 🌎 Displays the cities with the highest EV registrations.  
